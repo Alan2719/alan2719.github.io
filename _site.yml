@@ -1,0 +1,17 @@
+name: "Alan Velázquez"
+output_dir: docs
+navbar:
+  title: "Alan Velázquez"
+  left:
+    - text: "My CV"
+      href: index.html
+    - text: "Markdown-Git"
+      href: markdown-git.html
+    - text: "Markdown-Firebase"
+      href: markdown-firebase.html
+    - text: "Shiny"
+      href: shiny.html
+    - text: "Hadoop-google"
+      href: hadoop-google.html
+    - text: "Hadoop-virtualbox"
+      href: hadoop-virtualbox.html
